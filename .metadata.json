@@ -2,5 +2,9 @@
   {
     "package": "flightplot",
     "oncran": true
+  },
+  {
+    "package": "mapchina",
+    "oncran": true
   }
 ]

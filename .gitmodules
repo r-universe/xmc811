@@ -8,3 +8,8 @@
 	url = https://github.com/xmc811/flightplot
 	shallow = true
 	registered = true
+[submodule "mapchina"]
+	path = mapchina
+	url = https://github.com/xmc811/mapchina
+	shallow = true
+	registered = true
