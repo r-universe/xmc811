@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mapchina"]
-	path = mapchina
-	url = https://github.com/xmc811/mapchina
-	shallow = true
-	registered = true
 [submodule "flightplot"]
 	path = flightplot
 	url = https://github.com/xmc811/flightplot
+	shallow = true
+	registered = true
+[submodule "mapchina"]
+	path = mapchina
+	url = https://github.com/xmc811/mapchina
 	shallow = true
 	registered = true
