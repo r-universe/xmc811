@@ -1,10 +1,10 @@
 [
   {
-    "package": "flightplot",
+    "package": "mapchina",
     "oncran": true
   },
   {
-    "package": "mapchina",
+    "package": "flightplot",
     "oncran": true
   }
 ]
