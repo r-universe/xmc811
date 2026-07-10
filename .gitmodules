@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "flightplot"]
-	path = flightplot
-	url = https://github.com/xmc811/flightplot
 [submodule "mapchina"]
 	path = mapchina
 	url = https://github.com/xmc811/mapchina
